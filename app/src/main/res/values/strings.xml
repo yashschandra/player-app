@@ -1,0 +1,14 @@
+<resources>
+    <string name="app_name">Player-app</string>
+    <string name="server_address_hint">255.255.255.255:0000</string>
+    <string name="connect_button_text">Connect</string>
+    <string name="home_button_name">Home</string>
+    <string name="upload_button_name">Upload</string>
+    <string name="tags_button_name">Tags</string>
+    <string name="play_button_name">Play</string>
+    <string name="pause_button_name">Pause</string>
+    <string name="stop_button_name">Stop</string>
+    <string name="vol_up_button_name">+</string>
+    <string name="vol_down_button_name">-</string>
+    <string name="select_button_name">File</string>
+</resources>

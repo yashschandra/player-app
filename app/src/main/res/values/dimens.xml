@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <dimen name="nav_buttons_padding">18dp</dimen>
+    <dimen name="home_view_margin">15dp</dimen>
+    <dimen name="song_text_size">20dp</dimen>
+    <dimen name="song_list_padding">15dp</dimen>
+    <dimen name="nav_button_text_size">24dp</dimen>
+</resources>

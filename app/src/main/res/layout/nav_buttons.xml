@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="utf-8"?>
+<android.support.constraint.ConstraintLayout
+    xmlns:android="http://schemas.android.com/apk/res/android" android:layout_width="match_parent"
+    android:layout_height="match_parent">
+
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:background="@color/colorPrimary"
+        android:padding="@dimen/nav_buttons_padding">
+
+        <TextView
+            android:id="@+id/home_button"
+            android:layout_width="match_parent"
+            android:layout_height="match_parent"
+            android:text="@string/home_button_name"
+            android:gravity="center"
+            android:layout_weight="1"
+            android:textSize="@dimen/nav_button_text_size"
+            android:textColor="@color/nav_button_color"/>
+
+        <TextView
+            android:id="@+id/upload_button"
+            android:layout_width="match_parent"
+            android:layout_height="match_parent"
+            android:text="@string/upload_button_name"
+            android:gravity="center"
+            android:layout_weight="1"
+            android:textSize="@dimen/nav_button_text_size"
+            android:textColor="@color/nav_button_color"/>
+
+        <TextView
+            android:layout_width="match_parent"
+            android:layout_height="match_parent"
+            android:text="@string/tags_button_name"
+            android:gravity="center"
+            android:layout_weight="1"
+            android:textSize="@dimen/nav_button_text_size"
+            android:textColor="@color/nav_button_color"/>
+    </LinearLayout>
+
+</android.support.constraint.ConstraintLayout>
